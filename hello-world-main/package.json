@@ -1,0 +1,16 @@
+{
+  "name": "teapackage-1740.git",
+  "version": "1.0.5",
+  "description": "This is my first NPM package created for learning and explanation purposes.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oldwarma"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oldwarma"
+  },
+  "homepage": "https://github.com/Oldwarma/teapackage-1740#readme"
+}
